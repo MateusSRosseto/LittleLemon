@@ -1,2 +1,2 @@
 # Little Lemon website
-Project of a website for a fictious restaurant called Little Lemon.
+Project of a website for a fictitious restaurant called Little Lemon.
